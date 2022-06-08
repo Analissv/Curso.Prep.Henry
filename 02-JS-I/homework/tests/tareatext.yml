@@ -1,0 +1,7 @@
+Variables: Es el valor que se le asigna a un argumento
+Strings: Son palabras y se deben colocar entre comillas
+Funciones: Agrupa argumentos para que cuando se invoque la funcion calcule resultados segun el valor del argumento, por lo tanto cuando tenga varios valores para el argumento la funcion devolvera el resultado para cada uno 
+Argumento: Son las variables que van dentro del parentesis luego del nombre de la funcion, tomaran un valor cuando se invoque la funcion  
+Return: cuando invoque la funcion me duevuelve un valor segun la accion que necesite realizar por ejemplo sumas, datos concatenados etc
+if: permite ejecutar distintos codigos segun distintas condiciones, es decir tiene varias opciones para devolver cuando se invoque pero devolvera la que sea correcta 
+valores booleanos: ejecutando condiciones logicas nos devolvera si lo que ejecuto es verdadero o falso 
