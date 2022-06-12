@@ -9,4 +9,4 @@ por ultimo { } se colocara console.log e imprimira el resultado deseado
 &&; ││; !; son operadores logicos Y; o; no respectivamente
 Y = && = And evaluara las expresiones y nos devolvera verdadero si todas se cumplen, pero si una o todas no se cumplen devolvera falso
 O = ││ = or evaluara las expresiones y si una se cumple devolvera verdadero y si ninguna se cumple, devolvera falso
-No = ! = Not; devolvera el valor booleano opuesto a lo que sucede    
+No = ! = Not; devolvera el valor booleano opuesto a lo que sucede  
