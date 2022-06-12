@@ -1,0 +1,12 @@
+for, es una instruccion que nos ayuda a repetir un codigo muchas veces, por lo tanto en vez de 
+usar if muchas veces usamos for con la sintaxis correcta y este ejecutara el codigo todas las 
+veces que queramos solo dandole la instruccion una sola vez. 
+la sintaxis utilizada seria 
+la palabra for 
+seguido de ( ); elcual tendra la variable declarada; con la expresion condicional y por ultimo i++ que seria el incremento de la variable
+por ultimo { } se colocara console.log e imprimira el resultado deseado 
+
+&&; ││; !; son operadores logicos Y; o; no respectivamente
+Y = && = And evaluara las expresiones y nos devolvera verdadero si todas se cumplen, pero si una o todas no se cumplen devolvera falso
+O = ││ = or evaluara las expresiones y si una se cumple devolvera verdadero y si ninguna se cumple, devolvera falso
+No = ! = Not; devolvera el valor booleano opuesto a lo que sucede    
