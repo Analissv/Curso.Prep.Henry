@@ -1,0 +1,5 @@
+//Arrays son listas de elementos que pueden ser numeros, funciones, strings, null, etc.
+//tienen diferente propiedades y funciones
+//podemos determinar la cantidad de elementos que contiene, identificar o eliminar elementos, asi como hacer diferentes sentencias segun lo que necesitemos buscar
+//su forma de escribirlos es definir el array a continuacion de asignacion igual y los elementos se colocan entre corchetes separados por comas 
+//array = ["strigns", 1, 2, null] 
