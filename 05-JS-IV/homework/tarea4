@@ -1,0 +1,21 @@
+// Objetos: es un contenedor de datos, puede tener mucha informacion de una sola cosa, 
+// se define con un nombre y dentro de el puede tener propiedades y funciones o metodos
+//
+// Propiedades: la informacion que tenemos dentro del objeto estara definida por un 
+// titulo el cual recibe el calificativo de propiedad y a su vez este titulo ira acompa;ado 
+// de una clave que es el valor de la propiedad
+//
+// Metodos: son las funciones que definimos dentro del objeto 
+//
+// Bucles For in: En arreglos se iteraba para cada subindice del arreglo, en objetos se itera sobre 
+// las propiedades y como no tenemos sub indices la sintaxis cambia un poco. En los parentesis se define 
+// una variable con la palabra clave in seguido del nombre del objeto y en las llaves iria la accion que
+// queremos hacer cuando estamos dentro del bucle 
+//
+// Notacion de puntos vs notacion de corchetes: 
+// la notacion de puntos la utilizamos para acceder a una clave y sabemos el nombre de la propiedad 
+// la notacion de corchetes la utilizaremos:
+//   si conocemos el nombre de la propiedad usamos corchetes y el nombre de la propiedad en comillas 
+//   si la propiedad esta definida por una variable utilizaremos los corchetes y dentro el nombre de la variable
+// es decir, es mas comun usar corchetes cuando necesitamos acceder a una propiedad que esta definida por una
+// variable por lo tanto su nombre viene dado como un parametro  
