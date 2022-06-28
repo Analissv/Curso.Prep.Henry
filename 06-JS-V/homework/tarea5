@@ -1,0 +1,7 @@
+//prototype: se utilizan para optimizar recursos y asi no tener que hacer tantas repeticiones de algo.
+// con el prototype podemos hacer referencia a nuestra clase generada 
+//
+// constructor: un conctructor es una funcion que tendra las propiedades de la clase de forma general 
+// y cuando se crea el objeto, este recibira las propiedades especificas pero que fueron creadas de forma general 
+//en el constructor.
+// la relacion entre el objeto y la clase vendra dada por el kayword this 
